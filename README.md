@@ -1,0 +1,1 @@
+This readme basically showcases my coding journey, this is the second day and I've learnt a lot.
